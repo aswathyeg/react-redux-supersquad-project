@@ -10,7 +10,7 @@ export default class App extends React.Component{
                 SquadProject
                 <CharecterList/>
                 
-                <HeroList/>
+                {/* <HeroList/> */}
                 
             </div>
             
